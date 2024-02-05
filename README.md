@@ -1,7 +1,13 @@
 # ML
 this is comprehensive roadmap for machine learning , deep learning and computer vision .
 By : Dr.Mostafa I. Saad
+
 # ML RoadMap
+
+visit the source :
+https://youtube.com/playlist?list=PLPt2dINI2MIYdFB4H9bTmen9H6sbSzz2_&si=-Tllise7ll5N2oyH
+
+![image](https://github.com/MohamedTharwat21/ML/assets/109101590/71b2f3a2-ae2a-4115-b3ea-e25744bc7b8d)
 
 # **Roadmap for learning Machine Learning (More focus on DL):**
 
@@ -26,7 +32,11 @@ try to search , use GPT ,  and try to find an abstraction for this topic as / a 
 **- When to start learning ML**
 generally after the second year of your college as you could finish many course in the faculty related to Maths , Programming and so on .
 
-- Roadmap as following 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+**- Roadmap as following**
 - **Andrew Ng Coursera Course .**
 
 - https://www.coursera.org/learn/machine-learning
