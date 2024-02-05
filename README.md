@@ -1,5 +1,6 @@
 # ML
-this is ml , dl , computer vision roadmap
+this is comprehensive roadmap for machine learning , deep learning and computer vision .
+By : Dr.Mostafa I. Saad
 # ML RoadMap
 
 # **Roadmap for learning Machine Learning (More focus on DL):**
