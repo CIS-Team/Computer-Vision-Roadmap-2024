@@ -11,32 +11,34 @@ https://youtube.com/playlist?list=PLPt2dINI2MIYdFB4H9bTmen9H6sbSzz2_&si=-Tllise7
 
 # **Roadmap for learning Machine Learning (More focus on DL):**
 
-- General Notes
+# General Notes 
 -- Roadmaps nature
 
  It is not mandatory when you write  a roadmap  this  meaning that i followed this roadmap literally for many reasons like may be there is update in new courses which is more beneficial than the one i  have studied and so on .
 
--- Recall DL vs Classical Machine Learning
+#  Recall DL vs Classical Machine Learning
 
 Try to search about their history 
 
--- MOOCs assignments.
+# MOOCs assignments.
 
 in the online courses are not enough , generally it tells you to complete some functionalities which are very trivial and easy 
 
 You should do the whole project by yourself , not just some functionalities
 
-**-- Can't understand something ?**
+# Can't understand something ? 
+
 try to search , use GPT ,  and try to find an abstraction for this topic as / a powerpoint/ from high level universities before getting deeper in that topic
 
-**- When to start learning ML**
+# When to start learning ML 
+
 generally after the second year of your college as you could finish many course in the faculty related to Maths , Programming and so on .
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**- Roadmap as following**
+# Roadmap as following
 - **Andrew Ng Coursera Course .**
 
 - https://www.coursera.org/learn/machine-learning
@@ -125,7 +127,7 @@ Great practice :
 [https://medium.com/@jonathan_hui/map-...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbE9KWFlVVVlHdUo4V3ZncDFVOVZ2WUpadXB4QXxBQ3Jtc0tuZGlEQWw2bTNMMWlnczc1ZjhVdlBGbjZrQmY5MlJjY0RTWTN3NmhmLTNaYjhoTWNUVWJ2bk15YUJObDJlX0RXZE1xenhtS1RZOHQ5NEJVM1VBSG5YNmFRc1pKSUFENzQyMzdnWGtmaHl4dENRT05iOA&q=https%3A%2F%2Fmedium.com%2F%40jonathan_hui%2Fmap-mean-average-precision-for-object-detection-45c121a31173&v=qpEjE0blSUA)
 
 - AFTER you finish the above, do the following time split strategy
-**- Next 25% of time for classical Machine Learning models like SVM and so on / projects - 75% for deep learning** 
+# - Next 25% of time for classical Machine Learning models like SVM and so on / projects - 75% for deep learning** 
 
 CNN and RNN    
 ****
@@ -137,7 +139,7 @@ CNN and RNN
 
 -- Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists
 
-- 75% of your time for deep learning
+# 75% of your time for deep learning
 --
 
 [https://www.coursera.org/specializati...](https://www.deeplearning.ai/courses/deep-learning-specialization/)
